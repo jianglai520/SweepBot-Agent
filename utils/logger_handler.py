@@ -1,3 +1,6 @@
+"""
+配置日志工具
+"""
 import logging
 from utils.path_tool import get_abs_path
 import os
