@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+chroma_db/
+md5.text
+logs/
+.idea/
+.venv/
